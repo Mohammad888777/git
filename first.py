@@ -1,0 +1,1 @@
+print("mohammad is a reall king")
